@@ -1,0 +1,8 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Toki Pona Town Names
+STR_GRF_DESCRIPTION :A town name generator in toki pona! Made using statistical data from lipu pi toki pona pi jan Jakopo, sona.pona.la and the toki pona wikipedia page. Can generate fully toki-pona compliant names ranging from 3 to 12 characters long, giving preference to more common syllables in the toki pona dictionary for more readable names. Names may optionally contain the word "ma" ("ma Mewika" x "Mewika"). By @thanook on tumblr.
+STR_STYLES :Toki Pona (without "ma")
+STR_STYLES_MA:Toki Pona (with "ma")
